@@ -1,0 +1,1018 @@
+{
+  "meta": {
+    "dateKey": "2026-03-23",
+    "edition": "eu",
+    "briefingNumber": 18,
+    "isWeekend": false
+  },
+  "sections": [
+    {
+      "id": "executive_summary",
+      "title": "Executive Summary",
+      "items": [
+        {
+          "topic": "Iran Pause",
+          "text": "Trump postpones Iran energy strikes five days. Oil crashes 14% intraday. Iran denies any talks occurred."
+        },
+        {
+          "topic": "Rate Shock",
+          "text": "Dovish Fed's Goolsbee says he 'could see circumstances' for a hike. Markets price 75% hike probability by year-end."
+        },
+        {
+          "topic": "UK Gilts",
+          "text": "Traders fully price four BoE hikes in 2026. Starmer chairs emergency meeting with Governor Bailey."
+        },
+        {
+          "topic": "ECB Pivot",
+          "text": "Goldman joins JPMorgan and Barclays expecting ECB hikes in April and June. Consensus decisively hawkish."
+        },
+        {
+          "topic": "Oil Forecast",
+          "text": "Goldman says oil could top 2008's $147 record. Calls Hormuz the 'largest oil supply shock ever.'"
+        },
+        {
+          "topic": "Data Centers",
+          "text": "Bain Capital's Bridge Data Centres seeks up to $6B loan — one of Asia's largest-ever infrastructure borrowings."
+        },
+        {
+          "topic": "Clean Energy",
+          "text": "China's battery trio gains $70B in market cap. Investors bet Iran war accelerates the renewables shift."
+        },
+        {
+          "topic": "Italy Telecom",
+          "text": "Poste Italiane bids €10.8B for Telecom Italia. Returns the former monopoly to state control after three decades."
+        },
+        {
+          "topic": "AI Chips",
+          "text": "Ex-Goldman banker's AI chip startup Kandou raises $225M from SoftBank and Synopsys."
+        },
+        {
+          "topic": "India Stress",
+          "text": "Rupee hits record low, down 3% since war began. Modi warns of 'unprecedented challenges' for energy-import economy."
+        }
+      ]
+    },
+    {
+      "id": "credit_rates_currencies",
+      "title": "Credit, Rates & Currencies",
+      "items": [
+        {
+          "slug": "fed-goolsbee-rate-hike-possible",
+          "tag": "NEW",
+          "headline": "[Fed's Goolsbee — 'Could See Circumstances' for Rate Hike]",
+          "body": "Chicago Fed president said Monday a hike is possible depending on the Iran war's trajectory. Governor Miran pushed back, reaffirming his outlook for four 2026 cuts.",
+          "previousContext": null,
+          "sourceQuote": "he could envision the US central bank needing to raise interest rates, or returning to rate cuts, depending on how the war in the Middle East plays out",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/fed-s-goolsbee-says-he-could-see-circumstances-for-rate-hike",
+              "tier": "tier1"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/fed-s-miran-says-too-early-to-alter-outlook-for-four-2026-cuts",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Goolsbee-Miran split will drive rate volatility into summer. FOMC window has shifted materially hawkish.",
+          "confidence": 0.95,
+          "imageDescription": null
+        },
+        {
+          "slug": "trump-48hr-hormuz-ultimatum",
+          "tag": "DAY 2",
+          "headline": "[Trump Postpones Iran Energy Strikes Five Days — Oil Crashes 14%]",
+          "body": "*Previously: Trump gave Iran 48 hours to reopen Hormuz or face power plant strikes. Brent above $112.* Brent posted one of the biggest intraday swings on record Monday. Trump cited 'good and productive conversations.' Iran denied any talks.",
+          "previousContext": "Previously: Trump gave Iran 48 hours to reopen Hormuz or face power plant strikes. Brent above $112. UK, France, Germany, Italy issued joint readiness statement.",
+          "sourceQuote": "postponed military strikes against Iranian power plants and energy infrastructure for a five-day period",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/trump-says-he-will-postpone-strikes-against-iran-for-five-days",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Iran's denial suggests fragile footing. No progress within five days means violent repricing higher. Energy, transport, EM FX exposed.",
+          "confidence": 0.97,
+          "imageDescription": null
+        },
+        {
+          "slug": "global-bond-yields-highest-since-may-2024",
+          "tag": "DAY 2",
+          "headline": "[10-Year Treasury Hits 4.435% — Highest in Nine Months]",
+          "body": "*Previously: 10-year touched 4.415% Friday. Global yields at highest since May 2024.* Benchmark rose 4bp Monday. Two-year surged 10bp to 3.997%. Fed futures now price 75% chance of a hike by year-end. Zero cuts priced for 2026.",
+          "previousContext": "Previously: 10-year touched 4.415% Friday. UK gilt at highest since 2008. Global yields hit highest since May 2024.",
+          "sourceQuote": "up by more than 4 basis points at 4.435%, its highest in seven months",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/03/23/10-year-treasury-yields-rise-to-highest-level-since-july-2025.html",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Treasury safe-haven function inverted — inflation expectations dominate over flight-to-quality. Duration risk acute for credit portfolios.",
+          "confidence": 0.97,
+          "imageDescription": null
+        },
+        {
+          "slug": "gilts-worst-month-since-truss-oil-spike",
+          "tag": "DAY 2",
+          "headline": "[UK Gilt Yields Surge to 2008 Highs — Traders Price Four BoE Hikes]",
+          "body": "*Previously: Steepest monthly gilt decline since the 2022 Truss crisis.* Markets now fully price 100bp of BoE tightening in 2026. Starmer chaired emergency meeting with Bailey and ministers Monday.",
+          "previousContext": "Previously: Steepest monthly gilt decline since the 2022 Truss crisis. War-driven energy costs and rising yields hammer UK fixed income.",
+          "sourceQuote": "fully pricing a full percentage point of Bank of England monetary tightening in 2026 for the first time",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/traders-fully-price-four-quarter-point-hikes-from-boe-in-2026",
+              "tier": "tier1"
+            },
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/28cab6bf-d289-443d-917e-040e96c0717e",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Most aggressive BoE tightening since 2022. UK housing and consumer discretionary most exposed over 3–6 months.",
+          "confidence": 0.96,
+          "imageDescription": null
+        },
+        {
+          "slug": "goldman-raises-oil-forecasts-largest-supply-shock",
+          "tag": "DAY 2",
+          "headline": "[Goldman Now Says Oil Could Top 2008's $147 Record]",
+          "body": "*Previously: Goldman labeled Hormuz the 'largest-ever supply shock.' IEA reported 40+ Middle East energy assets severely damaged.* Brent whipsawed between $112 and below $100 Monday on Trump's postponement.",
+          "previousContext": "Previously: Brent at $113.20 Friday. Goldman labeled Hormuz the 'largest-ever supply shock.' IEA reported 40+ Middle East energy assets severely damaged.",
+          "sourceQuote": "oil could take out the 2008 record of $147",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/360ca227-4d2a-41a4-a05f-41baedc0f7d2",
+              "tier": "tier1"
+            },
+            {
+              "name": "WSJ",
+              "url": "https://www.wsj.com/business/energy-oil/goldman-lifts-oil-price-forecast-on-longer-hormuz-disruption-4e9d71ca",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Each week of Hormuz closure compounds supply loss. Airlines, petrochemicals, EM importers face existential cost pressure through Q2.",
+          "confidence": 0.95,
+          "imageDescription": null
+        },
+        {
+          "slug": "ecb-guindos-second-round-effects-iran",
+          "tag": "DAY 2",
+          "headline": "[Goldman Joins JPMorgan, Barclays — Now Expects ECB Hikes in April and June]",
+          "body": "*Previously: ECB VP Guindos told El Mundo the bank is watching price spillovers.* Goldman shifted from 'hold all year' to two 25bp hikes. Money markets price three ECB rate rises for 2026.",
+          "previousContext": "Previously: Vice President Guindos told El Mundo the ECB is watching price spillovers. Lagarde speaks Wednesday at ECB Watchers conference.",
+          "sourceQuote": "expects the European Central Bank to deliver two 25 basis point interest rate hikes in April and June",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/goldman-sachs-expects-ecb-rate-hikes-april-june-inflation-concerns-mount-2026-03-23/",
+              "tier": "tier1"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/ecb-alert-to-second-round-effects-from-iran-war-guindos-says",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Goldman's pivot is the most dramatic street reversal yet. European credit spreads and periphery bonds face repricing. EUR corporate issuance likely stalls.",
+          "confidence": 0.96,
+          "imageDescription": null
+        }
+      ]
+    },
+    {
+      "id": "conflict_monitor",
+      "title": "Global Conflict Monitor",
+      "items": [
+        {
+          "headline": "US-Iran War — Trump Postpones Energy Strikes, Claims Talks Underway",
+          "statusIndicator": "ongoing",
+          "parties": "United States, Israel vs. Iran, Hezbollah; Gulf states, Japan, India navigating bilateral access",
+          "region": "Middle East",
+          "latestDevelopment": "Trump postponed strikes on Iranian power plants for five days, citing 'good and productive conversations.' Iran denied any talks. Hormuz remains near-standstill entering week four. Two Indian-flagged LPG carriers transited under bilateral deal. Israel launched wide-scale strikes on Tehran infrastructure and is preparing to expand ground operations in Lebanon.",
+          "riskAssessment": "Five-day window creates binary risk event. If talks collapse, strikes trigger retaliatory attacks on Gulf energy and desalination facilities. Airlines, shipping, energy importers face acute pressure through Q2.",
+          "sourceQuote": "postpone strikes against Iranian energy infrastructure and power plants for five days",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/trump-says-he-will-postpone-strikes-against-iran-for-five-days",
+              "tier": "tier1"
+            },
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2",
+              "tier": "tier1"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/strait-of-hormuz-how-iran-is-blocking-route-as-trump-extends-deadline-to-reopen",
+              "tier": "tier1"
+            }
+          ],
+          "confidence": 0.97
+        },
+        {
+          "headline": "Ukraine-Russia — Primorsk Oil Port Hit by Drones",
+          "statusIndicator": "ongoing",
+          "parties": "Russia vs. Ukraine",
+          "region": "Europe",
+          "latestDevelopment": "Ukrainian drones struck Russia's Primorsk oil port. Fire broke out; tanker loadings suspended. Trilateral peace talks remain on hold as Iran dominates Washington's bandwidth.",
+          "riskAssessment": "Primorsk disruption adds marginal tightness to strained global oil supply. Ukraine's negotiating position weakens but military freedom of action may increase.",
+          "sourceQuote": "Russia's Primorsk oil port hit by drones with fuel tank on fire",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/russia-s-primorsk-oil-port-hit-by-drones-with-fuel-tank-on-fire",
+              "tier": "tier1"
+            }
+          ],
+          "confidence": 0.92
+        },
+        {
+          "headline": "Sudan Civil War — Aid Routes Disrupted by Iran Conflict",
+          "statusIndicator": "ongoing",
+          "parties": "Sudanese Armed Forces (SAF) vs. Rapid Support Forces (RSF)",
+          "region": "Africa",
+          "latestDevelopment": "WFP reports food aid stuck in transit as Iran war disrupts humanitarian shipping. Elevated oil and food prices reduce donor purchasing power.",
+          "riskAssessment": "African food-importing nations face cascading price pressures through Q2–Q3.",
+          "sourceQuote": "millions more people may be pushed into acute hunger if disruption continues",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/34e575ef-0803-4bd9-bb00-818fbe13197d",
+              "tier": "tier1"
+            }
+          ],
+          "confidence": 0.85
+        },
+        {
+          "headline": "Asia-Pacific — India Energy Crisis Deepens; Japan Resists Gulf Deployment",
+          "statusIndicator": "escalating",
+          "parties": "India, Japan, South Korea, China, Pakistan",
+          "region": "Asia",
+          "latestDevelopment": "Rupee hit record low, down ~3% since war began Feb 28. Modi warned of 'unprecedented challenges.' Japan's majority opposes sending warships despite US pressure. South Korea named BIS veteran Shin Hyun Song as hawkish BoK governor.",
+          "riskAssessment": "India imports ~85% of crude. RBI reserve burn rate unsustainable beyond months. Japanese opposition limits US coalition options. South Korea's hawkish BoK pick reflects regional inflation defense.",
+          "sourceQuote": "the country has sufficient energy supplies to meet domestic demand, even as he warned the Iran conflict creates unprecedented challenges",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/modi-seeks-to-calm-india-as-iran-war-causes-acute-gas-shortage",
+              "tier": "tier1"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/india/rupee-hits-record-low-indian-assets-drop-worries-escalating-middle-east-war-2026-03-23/",
+              "tier": "tier1"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/majority-of-japanese-oppose-sending-warships-to-middle-east",
+              "tier": "tier1"
+            }
+          ],
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "id": "world_affairs",
+      "title": "World Affairs",
+      "items": [
+        {
+          "slug": "trump-postpones-iran-strikes-five-days",
+          "tag": "NEW",
+          "headline": "[Trump Claims 'Productive' Iran Talks — Tehran Denies Any Dialog]",
+          "body": "Trump said Monday his team held discussions about ending the 24-day war. Iran immediately disputed the claim. Treasuries and oil whipsawed on conflicting statements.",
+          "previousContext": null,
+          "sourceQuote": "Iran disputed statements by US President Trump regarding talks to end hostilities",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/treasuries-soar-after-trump-postpones-iran-power-strikes",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Markets will trade binary around the March 28 deadline. Trump's claim vs. Iran's denial suggests backchannel contacts or unilateral narrative.",
+          "confidence": 0.96,
+          "imageDescription": null
+        },
+        {
+          "slug": "poste-italiane-telecom-italia-bid",
+          "tag": "NEW",
+          "headline": "[Poste Italiane Bids €10.8B for Telecom Italia — Returns to State Control]",
+          "body": "State-backed postal operator would return Italy's former phone monopoly to government ownership after three decades. Part of broader European critical infrastructure renationalization.",
+          "previousContext": null,
+          "sourceQuote": "made a €10.8 billion offer to buy full control of Telecom Italia SpA",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-22/poste-italiane-launches-10-8-billion-telecom-italia-bid",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Renationalization at this scale signals Italy's strategic reassessment. KKR's FiberCop position may benefit from premium on Italian telecom assets.",
+          "confidence": 0.95,
+          "imageDescription": null
+        },
+        {
+          "slug": "eu-australia-trade-deal",
+          "tag": "NEW",
+          "headline": "[EU and Australia Near Trade Deal After Eight Years of Talks]",
+          "body": "Brussels and Canberra could finally agree as geopolitical upheaval accelerates alliance-building. Both sides seeking strategic diversification amid US focus on Iran.",
+          "previousContext": null,
+          "sourceQuote": "After more than eight years of talks, Canberra and Brussels could finally agree on a trade deal",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/41a8cdd6-47e3-46ad-b8c0-70e4d9911916",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Iran conflict accelerates non-US alliance formation. Australian agriculture and mining sectors stand to gain most over 12–18 months.",
+          "confidence": 0.9,
+          "imageDescription": null
+        },
+        {
+          "slug": "merz-cdu-wins-rhineland-palatinate",
+          "tag": "DAY 2",
+          "headline": "[Merz's CDU Wins SPD Stronghold — Pressures German Coalition]",
+          "body": "*Previously: CDU secured 31% vs SPD's 25.9% in Rhineland-Palatinate, held by SPD for 35 years.* Victory gives Merz fresh leverage for budget and defense spending negotiations.",
+          "previousContext": "CDU secured 31% vs SPD's 25.9%. Victory offsets the Baden-Württemberg defeat two weeks ago.",
+          "sourceQuote": "Merz's effort to reboot Germany's economy ran into a fresh challenge after his Social Democratic coalition partners suffered a stinging election defeat in a party stronghold",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/merz-s-win-in-spd-stronghold-means-trouble-for-german-coalition",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "SPD weakness strengthens Merz's hand on fiscal policy. Coalition stability is the key risk for German bonds and infrastructure plans.",
+          "confidence": 0.94,
+          "imageDescription": null
+        },
+        {
+          "slug": "france-far-right-misses-municipal-targets",
+          "tag": "DAY 2",
+          "headline": "[Le Pen's National Rally Loses Marseille, Toulon — But Wins Nice]",
+          "body": "*Previously: National Rally failed to capture major cities in Sunday's municipal vote.* Far-right aligned candidate took France's fifth-largest city. Party defeated in Marseille, Toulon, and Nîmes.",
+          "previousContext": "Previously: National Rally failed to capture major cities in Sunday's municipal vote. Socialist Emmanuel Gregoire won Paris.",
+          "sourceQuote": "defeated in a handful of large municipalities it targeted, including Marseille, Toulon and Nimes",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/videos/2026-03-23/france-s-far-right-falls-short-in-municipal-elections-video",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Nice gives Le Pen a beachhead but overall results disappoint. Limits RN momentum ahead of 2027 presidential cycle. French political risk premium contained.",
+          "confidence": 0.93,
+          "imageDescription": null
+        }
+      ]
+    },
+    {
+      "id": "art_alternative_assets",
+      "title": "Art & Alternative Assets",
+      "items": [
+        {
+          "slug": "china-battery-trio-70bn-gains-iran-war",
+          "tag": "NEW",
+          "headline": "[China Battery Trio Gains $70B as Iran War Sparks 'Paradigm Shift']",
+          "body": "Clean energy share gains outstrip oil majors. CATL, BYD, and EVE Energy lead. Investors bet the crisis accelerates the renewables switch.",
+          "previousContext": null,
+          "sourceQuote": "Share price rises for clean energy companies outstrip oil majors as investors bet on switch to renewables",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/b122ca1f-fc99-4749-9764-f1998b84dd07",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Largest war-driven clean energy rotation since Russia's 2022 invasion. Durable theme for allocators looking beyond fossil fuel hedges.",
+          "confidence": 0.93,
+          "imageDescription": null
+        },
+        {
+          "slug": "berkshire-hathaway-tokio-marine-stake",
+          "tag": "NEW",
+          "headline": "[Berkshire Hathaway Takes $1.8B Stake in Tokio Marine]",
+          "body": "Buffett deepens Japan exposure following 2023 trading house bets. Insurance sector benefits from rising premiums amid geopolitical risk.",
+          "previousContext": null,
+          "sourceQuote": "Investment in non-life insurer marks new Japan venture for Warren Buffett's conglomerate",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/0ef092c4-01bf-4331-8fbe-99bd15ed5f27",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Buffett's Japan insurance bet validates reinsurance pricing power during wartime and the 'Japan renaissance' narrative for global allocators.",
+          "confidence": 0.95,
+          "imageDescription": null
+        },
+        {
+          "slug": "art-basel-hong-kong-2026-preview",
+          "tag": "DAY 2",
+          "headline": "[Art Basel Hong Kong Opens This Week — 240 Exhibitors, Two New Sectors]",
+          "body": "*Previously: Art Basel Hong Kong confirmed 240 exhibitors and two new sectors.* VIP days March 25–26. 'Echoes' and 'Zero 10' digital art debut. TEFAF closed with 50,000+ visitors.",
+          "previousContext": "Previously: Art Basel Hong Kong confirmed 240 exhibitors and two new sectors for its 2026 edition.",
+          "sourceQuote": null,
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/what-the-iran-war-means-for-dubai-s-luxury-boom",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Gulf buyers potentially sidelined by war. Art Dubai postponed. Whether Hong Kong absorbs displaced demand defines the spring auction season.",
+          "confidence": 0.88,
+          "imageDescription": "Art Basel Hong Kong Convention and Exhibition Centre"
+        }
+      ]
+    },
+    {
+      "id": "design_ux_industrial",
+      "title": "Design, UX & Industrial",
+      "items": [
+        {
+          "slug": "nike-england-world-cup-kit-2026",
+          "tag": "NEW",
+          "headline": "[Nike's 2026 World Cup Kits — First Made From Recycled Textile Waste]",
+          "body": "Nike-sponsored teams will wear kits from recycled textile waste. England's design engineers flags and lions into fabric rather than printing them.",
+          "previousContext": null,
+          "sourceQuote": "Nike-sponsored teams will be wearing kits made from recycled textile waste",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/9ee573d5-c70c-4726-b116-47b702a7e521",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Circular fashion enters its highest-profile test at World Cup scale. Success could reset sportswear supply chains ahead of 2028 Olympics.",
+          "confidence": 0.92,
+          "imageDescription": "Nike football kit manufacturing process"
+        },
+        {
+          "slug": "sony-tcl-home-entertainment-deal",
+          "tag": "NEW",
+          "headline": "[Sony Nears $1B Sale of Home Entertainment Unit to China's TCL]",
+          "body": "Sony Group nearing binding agreement for majority stake sale. Signals continued retreat from consumer electronics toward gaming, IP, and semiconductors.",
+          "previousContext": null,
+          "sourceQuote": "nearing a binding agreement to sell a majority stake in its home entertainment business to Chinese rival TCL",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/sony-is-said-to-near-1-billion-home-entertainment-deal-with-tcl",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "TCL consolidates TV market dominance. Mirrors broader Japanese industrial retreat from consumer electronics manufacturing.",
+          "confidence": 0.93,
+          "imageDescription": null
+        }
+      ]
+    },
+    {
+      "id": "ai_technology",
+      "title": "AI & Technology",
+      "items": [
+        {
+          "slug": "fink-ai-inequality-warning",
+          "tag": "NEW",
+          "headline": "[BlackRock's Fink — AI Threatens to Leave Masses Behind Unless They Invest]",
+          "body": "CEO warned the AI boom risks making wealthy companies richer while worsening inequality. Called for broader individual participation in market gains.",
+          "previousContext": null,
+          "sourceQuote": "the artificial intelligence boom threatens to make wealthy companies and investors even richer while exacerbating inequality",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/fink-says-ai-threatens-to-leave-masses-behind-unless-they-invest",
+              "tier": "tier1"
+            },
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/58602814-8138-4a14-a32e-d82dec2d472c",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Both policy positioning and product marketing for BlackRock's retail strategies. Sets up regulatory conversations on AI wealth distribution through 2027.",
+          "confidence": 0.93,
+          "imageDescription": null
+        },
+        {
+          "slug": "elliott-synopsys-multibillion-stake",
+          "tag": "DAY 2",
+          "headline": "[Elliott's Synopsys Stake Sends Shares Higher — Activist Push Underway]",
+          "body": "*Previously: Elliott built a multibillion-dollar position in chip-design software maker Synopsys.* Stock among biggest premarket movers Monday. Elliott targeting operational changes. Synopsys also invested in Kandou AI's $225M round.",
+          "previousContext": "Previously: Elliott Investment Management built a multibillion-dollar position in Synopsys, the chip-design software maker.",
+          "sourceQuote": "Elliott Investment Management has made a multibillion-dollar investment in Synopsys Inc. and plans to push for changes",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-22/elliott-is-said-to-take-multibillion-dollar-stake-in-synopsys",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Synopsys is a near-monopoly in EDA alongside Cadence. $35B Ansys acquisition may face scrutiny. Restructuring reshapes the $50B chip design tools market.",
+          "confidence": 0.95,
+          "imageDescription": null
+        },
+        {
+          "slug": "ft-iran-war-ai-boom-chip-supply-risk",
+          "tag": "DAY 2",
+          "headline": "[FT — Iran War Threatens AI Boom via Chip Supply Chain's Gulf Dependencies]",
+          "body": "*Previously: FT reported semiconductor supply chains depend on Middle East energy and chemical imports.* Prolonged Hormuz closure could constrain production at TSMC, Samsung, and Intel. Fab expansion timelines at risk.",
+          "previousContext": "Previously: FT reported semiconductor supply chains depend on Middle East energy and chemical imports.",
+          "sourceQuote": "The entire chip supply chain depends on energy and chemical imports from the Middle East",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/df3f208a-2512-4a75-b2f3-d3bd27bae2e8",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Neon gas, semiconductor-grade chemicals, and energy inputs all have Gulf exposure. Multi-quarter disruption slows AI infrastructure buildout.",
+          "confidence": 0.93,
+          "imageDescription": null
+        }
+      ]
+    },
+    {
+      "id": "economic_business",
+      "title": "Economic & Business Intelligence",
+      "items": [
+        {
+          "slug": "uk-growth-halving-iran-war",
+          "tag": "NEW",
+          "headline": "[UK Growth Set to Halve in 2026 — Consumers Retrench as Energy Bills Surge]",
+          "body": "Forecasters warn growth could be cut in half. BoE preparing for potential rate hikes. EDF says one in eight customers already 45+ days overdue. Sweden proposed fuel tax cut to ease war-driven prices.",
+          "previousContext": null,
+          "sourceQuote": "UK growth could halve this year as already-cautious consumers batten down the hatches",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/uk-growth-set-to-halve-after-iran-war-hit-economists-warn",
+              "tier": "tier1"
+            },
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/90231c65-46b0-4ca7-9f38-47f457322532",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "UK faces twin squeeze of energy inflation and rate hikes. Stagflation increasingly base case for H2 2026.",
+          "confidence": 0.96,
+          "imageDescription": null
+        },
+        {
+          "slug": "india-energy-shock-rupee-record-low",
+          "tag": "NEW",
+          "headline": "[Indian Rupee Hits Record Low — RBI Says Economy 'Strong Enough' to Cope]",
+          "body": "Rupee declined 3% since war began February 28. Oil surged 50%+ in that period. Modi warned of 'unprecedented challenges.'",
+          "previousContext": null,
+          "sourceQuote": "Modi seeks to calm India as Iran war causes acute gas shortage",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/modi-seeks-to-calm-india-as-iran-war-causes-acute-gas-shortage",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "India imports ~85% of crude. Every $10 oil rise adds ~0.4% to CPI. RBI reserve burn rate unsustainable. Equity outflows likely to accelerate.",
+          "confidence": 0.95,
+          "imageDescription": null
+        },
+        {
+          "slug": "danone-buys-huel-1bn",
+          "tag": "NEW",
+          "headline": "[Danone Buys UK Protein Brand Huel for €1B]",
+          "body": "French food giant pushes into 'complete nutrition.' Huel makes fortified powders and drinks. Category has outpaced traditional food growth three years running.",
+          "previousContext": null,
+          "sourceQuote": "Danone SA agreed to buy Huel, a UK maker of fortified protein powders and drinks",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/ad3d4b3f-6e19-4ef1-b0fa-6a70498ad00b",
+              "tier": "tier1"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/danone-to-buy-uk-protein-drinks-maker-huel-in-nutrition-push",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "€1B price tag validates the DTC protein category. Expect competitor M&A from Nestlé and Unilever within 12 months.",
+          "confidence": 0.95,
+          "imageDescription": null
+        },
+        {
+          "slug": "lvmh-kering-expand-european-stores-luxury-slowdown",
+          "tag": "NEW",
+          "headline": "[LVMH to Kering Defied Slowdown — Expanded European Stores in 2025]",
+          "body": "Owners of Gucci, Fendi, and Bulgari grew European retail despite sector weakness. Signals confidence in tourism-driven demand.",
+          "previousContext": null,
+          "sourceQuote": "opened more stores in Europe last year despite a slowdown in the wider sector",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/lvmh-to-kering-defy-luxury-slowdown-with-more-stores-in-europe",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Counter-cyclical bet on tourist traffic rerouting from war-affected Gulf to European capitals. Watch H1 retail comps for validation.",
+          "confidence": 0.94,
+          "imageDescription": null
+        },
+        {
+          "slug": "japan-wage-hike-5-percent-third-year",
+          "tag": "DAY 2",
+          "headline": "[Japan's Largest Union Wins 5%+ Wage Hike for Third Straight Year]",
+          "body": "*Previously: Average pay increases exceeded 5%. BOJ developing new inflation model.* Result keeps BOJ on track for another rate hike. Yen weakness from oil imports adds urgency.",
+          "previousContext": "Previously: Average pay increases exceeded 5%. BOJ developing new inflation model.",
+          "sourceQuote": "workers secured an average pay increase above 5% for a third straight year",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/japan-s-key-labor-union-wins-wage-hike-topping-5-for-third-year",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Three consecutive 5%+ wage rounds cement BOJ normalization. Next meeting becomes a live event for another hike.",
+          "confidence": 0.96,
+          "imageDescription": null
+        },
+        {
+          "slug": "wall-street-pushes-back-china-rate-cuts-raises-inflation",
+          "tag": "DAY 2",
+          "headline": "[Wall Street Raises China Inflation Forecasts — Rate Cut Calls Pushed Back]",
+          "body": "*Previously: Major US banks raised 2026 China inflation forecasts.* PBOC easing expectations delayed as surging oil changes the calculus. China's state refiners began exploring Iranian crude purchases after US waiver.",
+          "previousContext": "Previously: Major US banks raised 2026 China inflation forecasts and delayed rate cut predictions.",
+          "sourceQuote": "pushed back predictions for its next interest-rate cut, as the escalating conflict in Iran sends oil prices higher",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/wall-street-banks-push-back-calls-for-china-rate-cuts-during-war",
+              "tier": "tier1"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/china-s-state-refiners-explore-iranian-oil-deals-after-us-waiver",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Discounted Iranian crude provides partial offset. PBOC easing cycle frozen. Growth support shifts to fiscal tools.",
+          "confidence": 0.94,
+          "imageDescription": null
+        }
+      ]
+    },
+    {
+      "id": "private_equity",
+      "title": "Private Equity",
+      "items": [
+        {
+          "slug": "bain-capital-bridge-data-centers-6bn-loan",
+          "tag": "NEW",
+          "headline": "[Bain Capital's Bridge Data Centres Seeks Up to $6B Loan — Asia's Largest]",
+          "body": "Would be one of Asia's largest-ever data center borrowings. Bain simultaneously exploring sale of up to 70% stake. Citi and JPMorgan running the process.",
+          "previousContext": null,
+          "sourceQuote": "in talks with lenders for a potential loan of up to $6 billion",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/bain-capital-s-bridge-data-centres-seeks-up-to-6-billion-loan",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "$6B loan alongside a potential $2B+ equity exit signals Bain recapitalizing at peak AI infrastructure demand. Watch for SWF or infra fund buyers.",
+          "confidence": 0.95,
+          "imageDescription": null
+        },
+        {
+          "slug": "jpmorgan-shifts-ea-buyout-debt-boosts-loan",
+          "tag": "NEW",
+          "headline": "[JPMorgan Boosts EA Buyout Loan to $5B — Shifts Debt Mix]",
+          "body": "Dollar loan offering increased to $5B. EA touting $700M in cost savings to attract credit investors. Largest LBO financing in months.",
+          "previousContext": null,
+          "sourceQuote": "increasing the size of a US dollar loan offering to $5 billion",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/jpmorgan-shifts-ea-buyout-debt-mix-boosts-loan-to-5-billion",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Larger loan component signals stronger bank appetite in leveraged loans than bonds. Proves war hasn't frozen the LBO market entirely.",
+          "confidence": 0.96,
+          "imageDescription": null
+        },
+        {
+          "slug": "iran-war-oil-gas-dealmaking-paralysis",
+          "tag": "DAY 2",
+          "headline": "[Iran War Leaves Oil & Gas M&A 'in Paralysis']",
+          "body": "*Previously: Iran war froze US oil and gas dealmaking as valuation gaps widened.* Sellers anchor to elevated spot prices. Buyers refuse war premiums. Bid-ask spreads widen further.",
+          "previousContext": "Previously: Iran war froze US oil and gas dealmaking. Transaction pipeline stalled as valuation gaps widened.",
+          "sourceQuote": "Surging energy prices have made it challenging to calculate transaction valuations",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/193718a3-5f4f-4a5d-9847-97820d63a546",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Paralysis could persist months beyond any ceasefire. Distressed opportunities may emerge Q3 if smaller operators face refinancing walls.",
+          "confidence": 0.94,
+          "imageDescription": null
+        },
+        {
+          "slug": "delivery-hero-foodpanda-taiwan-grab",
+          "tag": "DAY 2",
+          "headline": "[Grab Finalizes $600M Taiwan Foodpanda Deal — First Foray Outside Southeast Asia]",
+          "body": "*Previously: Delivery Hero announced sale as first step in strategic review.* Cash deal expected to close H2 2026. Tests whether Grab's super-app model scales beyond ASEAN.",
+          "previousContext": "Previously: Delivery Hero announced sale as first step in strategic review.",
+          "sourceQuote": "agreed to buy Delivery Hero SE's Foodpanda operations in Taiwan for $600 million",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/grab-strikes-600-million-deal-for-delivery-hero-s-taiwan-unit",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Expect more asset disposals from European delivery platforms under PE pressure. Grab's geographic expansion is the strategic signal.",
+          "confidence": 0.96,
+          "imageDescription": null
+        },
+        {
+          "slug": "private-credit-bank-contagion-risk",
+          "tag": "DAY 2",
+          "headline": "[Private Credit Bank Contagion — Wall Street's 'Big Problem']",
+          "body": "*Previously: Banks lending to private credit fund managers seeing losses return.* FT reports bank-to-fund leverage creates daisy chain where NAV declines trigger cascading margin calls.",
+          "previousContext": "Previously: Banks lending to private credit fund managers — not directly to companies — are seeing losses return. The firebreak model is fraying.",
+          "sourceQuote": "Wall Street's big private capital problem",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/14adbdd8-ef0a-40a9-afb9-cd3d233586f4",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Credit cycle risk Goldman's Solomon flagged. Regulatory scrutiny will intensify through H2.",
+          "confidence": 0.91,
+          "imageDescription": null
+        }
+      ]
+    },
+    {
+      "id": "venture_exits",
+      "title": "Venture & Exits",
+      "items": [
+        {
+          "slug": "kandou-ai-225m-softbank-synopsys",
+          "tag": "NEW",
+          "headline": "[Kandou AI Raises $225M From SoftBank, Synopsys for Custom AI Chips]",
+          "body": "Led by former Goldman Sachs MD. SoftBank, Maverick Silicon, and Synopsys among investors. Targets AI-optimized chip design.",
+          "previousContext": null,
+          "sourceQuote": "raised $225 million from investors including Maverick Silicon, SoftBank Group Corp. and Synopsys",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/ex-goldman-banker-s-ai-chip-company-secures-softbank-funding",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "SoftBank's AI chip spree continues alongside $40B Nvidia commitment. Synopsys co-investment creates strategic design tooling alignment.",
+          "confidence": 0.95,
+          "imageDescription": null
+        },
+        {
+          "slug": "dash0-110m-unicorn-monitoring",
+          "tag": "NEW",
+          "headline": "[Dash0 Hits $1B Valuation on $110M Balderton-Led Round]",
+          "body": "Software monitoring platform targets US expansion. AI agent proliferation drives demand for observability. Competes with Datadog and Dynatrace.",
+          "previousContext": null,
+          "sourceQuote": "raised $110 million at a $1 billion valuation in a Balderton Capital-led round to expand its monitoring platform",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/balderton-backed-startup-dash0-bags-110-million-to-expand-in-us",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "European B2B SaaS hitting unicorn in one round signals strong enterprise demand. Infrastructure software resilient despite broader tech correction.",
+          "confidence": 0.94,
+          "imageDescription": null
+        },
+        {
+          "slug": "saudi-ninja-ipo-despite-war",
+          "tag": "NEW",
+          "headline": "[Saudi Unicorn Ninja Gauges IPO Appetite Despite Iran War]",
+          "body": "Quick-delivery firm testing investor interest for Riyadh listing. Would be rare IPO proceeding amid regional conflict in its fourth week.",
+          "previousContext": null,
+          "sourceQuote": "been gauging investor appetite for a potential listing in Riyadh, despite volatility from a regional conflict",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/saudi-unicorn-ninja-said-to-gauge-ipo-appetite-despite-iran-war",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Tests whether Saudi capital markets function independently of Gulf conflict. Failure signals regional risk premium too high for new issuance.",
+          "confidence": 0.91,
+          "imageDescription": null
+        },
+        {
+          "slug": "air-street-capital-232m-ai-fund",
+          "tag": "NEW",
+          "headline": "[Solo Investor Air Street Raises $232M to Chase AI Bets From London]",
+          "body": "Nathan Benaich's single-GP fund targets early-stage AI companies. Speed and focus are the structural edge.",
+          "previousContext": null,
+          "sourceQuote": "Solo investor Air Street raises $232mn to chase hot AI bets",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/c9e5d053-7b5b-47ed-9027-f8bfb3793bb9",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Solo GP raising $232M shows concentrated LP appetite for AI. London's AI venture ecosystem gains traction as European alternative to Silicon Valley.",
+          "confidence": 0.93,
+          "imageDescription": null
+        },
+        {
+          "slug": "south-korea-defense-startups-surge",
+          "tag": "DAY 2",
+          "headline": "[South Korea Defense Startups Surge as Global Conflicts Flare]",
+          "body": "*Previously: Korea's closed defense ecosystem began opening to startups.* Startups making experimental weapons for modern warfare now emerging alongside Hanwha-led exports.",
+          "previousContext": "Previously: South Korea's defense startup ecosystem began opening as global conflicts drove demand for next-generation military technology.",
+          "sourceQuote": "startups making experimental weapons for modern warfare are emerging, aided by an uptick in global conflict",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/south-korea-s-defense-startups-surge-as-global-conflicts-flare",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Parallels Israel's model. VC allocation to defense-tech likely to triple by 2027 as government procurement accelerates.",
+          "confidence": 0.92,
+          "imageDescription": null
+        }
+      ]
+    },
+    {
+      "id": "real_estate",
+      "title": "Real Estate & Property",
+      "items": [
+        {
+          "slug": "china-property-slump-bottom-2027",
+          "tag": "NEW",
+          "headline": "[Bloomberg Economics — China Property Slump Could Bottom Out in 2027]",
+          "body": "Country Garden expects to return to profit on a non-cash gain from debt restructuring. Bloomberg Economics sees 12–18 months to trough.",
+          "previousContext": null,
+          "sourceQuote": "Bloomberg Economics reckons China's property slump could bottom out in 2027",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/newsletters/2026-03-23/light-at-end-of-the-tunnel-for-china-s-property-slump",
+              "tier": "tier1"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/country-garden-sees-return-to-profit-on-debt-revamp-gain",
+              "tier": "tier1"
+            }
+          ],
+          "assessment": "Accounting profit from restructuring masks ongoing operational weakness. Calibrate China property exposure on a 2027+ recovery timeline.",
+          "confidence": 0.9,
+          "imageDescription": null
+        }
+      ]
+    },
+    {
+      "id": "operational_calendar",
+      "title": "Operational Calendar",
+      "items": [
+        {
+          "date": "March 23-28",
+          "headline": "Trump's Five-Day Iran Strike Postponement Window",
+          "body": "Binary risk event. Strikes resume or talks progress. Oil faces extreme volatility through Friday.",
+          "subsection": "confirmed",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/trump-says-he-will-postpone-strikes-against-iran-for-five-days",
+              "tier": "tier1"
+            }
+          ]
+        },
+        {
+          "date": "March 23-28",
+          "headline": "CERAWeek Conference — Houston",
+          "body": "World's largest energy conference opens amid Iran war. Aramco CEO withdrew. Iran will 'overshadow everything else.'",
+          "subsection": "confirmed",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/newsletters/2026-03-23/ceraweek-iran-will-overshadow-everything-else-at-houston-oil-forum",
+              "tier": "tier1"
+            }
+          ]
+        },
+        {
+          "date": "March 25-29",
+          "headline": "Art Basel Hong Kong 2026",
+          "body": "240 exhibitors. Two new sectors. VIP days March 25–26. Public March 27–29.",
+          "subsection": "confirmed",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/what-the-iran-war-means-for-dubai-s-luxury-boom",
+              "tier": "tier1"
+            }
+          ]
+        },
+        {
+          "date": "March 25",
+          "headline": "Chile Central Bank Rate Decision",
+          "body": "Expected to hold. Oil surge threatens inflation success.",
+          "subsection": "confirmed",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/chile-set-to-hold-rates-as-oil-shock-threatens-inflation-success",
+              "tier": "tier1"
+            }
+          ]
+        },
+        {
+          "date": "March 25",
+          "headline": "Denmark General Election",
+          "body": "PM Frederiksen rides Greenland row into election. Trump confrontation boosts third-term prospects.",
+          "subsection": "on_the_horizon",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/a6ca1cd1-b74f-4ed5-a10b-87c95c0f44df",
+              "tier": "tier1"
+            }
+          ]
+        },
+        {
+          "date": "On the Horizon",
+          "headline": "ECB April Rate Decision — Hike Now Base Case",
+          "body": "Goldman, JPMorgan, Barclays all expect 25bp hike. Markets price three hikes for 2026. Lagarde speaks Wednesday.",
+          "subsection": "on_the_horizon",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/goldman-sachs-expects-ecb-rate-hikes-april-june-inflation-concerns-mount-2026-03-23/",
+              "tier": "tier1"
+            }
+          ]
+        },
+        {
+          "date": "Late March",
+          "headline": "S&P Global Flash PMIs — US, Eurozone, UK",
+          "body": "First hard data on Iran war's impact on business activity. Key read on inflation expectations.",
+          "subsection": "on_the_horizon",
+          "sources": [
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/content/6363160e-6de2-48c3-8a36-42493471afaf",
+              "tier": "tier1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "contemporary_art_spotlight",
+      "title": "Contemporary Art Spotlight",
+      "items": [
+        {
+          "headline": "Cecily Brown — Painting's Unstoppable Force Returns to London",
+          "bridge": "As Art Basel Hong Kong opens and TEFAF closes with 50,000+ visitors, London's Serpentine prepares one of 2026's most anticipated exhibitions. Cecily Brown's 'Picture Making' opens March 27.",
+          "imageDescription": "Serpentine Gallery London exterior Hyde Park",
+          "imageCaption": "Serpentine Gallery, London — venue for Cecily Brown's 'Picture Making' opening March 27. Photo: Wikimedia Commons, CC BY-SA 4.0",
+          "stats": "BORN 1966 · BRITISH-AMERICAN · MET MUSEUM 2023 SOLO · GAGOSIAN, PAULA COOPER · AUCTION RECORD $6.5M+",
+          "body": "[Why it matters] Brown has achieved genuine critical respect alongside sustained auction momentum. Her canvases — dense figurative-abstract hybrids — channel de Kooning, Rubens, and Soutine through a 21st-century sensibility. The Serpentine show arrives as painting's commercial dominance is both celebrated and questioned.",
+          "whyNow": "[Current peg] 'Picture Making' opens March 27. New paintings alongside works from 2001. London's art calendar is charged — Art Basel Hong Kong runs simultaneously. Market tests post-TEFAF momentum against war-driven uncertainty.",
+          "verifiedContext": "[Historical context] Brown moved from London to New York in 1994. Her 2023 Met solo — 'Death and the Maid' — positioned her among the handful of living artists given full-scale institutional treatment. Works regularly sell in seven figures.",
+          "keyInsight": "[One thing to know] Brown operates at peak efficiency across all three channels — primary sales, secondary auction, and museum shows — simultaneously. The Serpentine exhibition will catalyze further price discovery.",
+          "sources": [
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-23/what-the-iran-war-means-for-dubai-s-luxury-boom",
+              "tier": "tier1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
